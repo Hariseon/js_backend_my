@@ -1,0 +1,25 @@
+{
+  "name": "js_backend_my",
+  "version": "1.0.0",
+  "description": "back-end part",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hariseon/js_backend_my.git"
+  },
+  "author": "Daniil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hariseon/js_backend_my/issues"
+  },
+  "homepage": "https://github.com/Hariseon/js_backend_my#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.7.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}
